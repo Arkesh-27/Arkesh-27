@@ -1,16 +1,59 @@
-## Hi there 👋
+<!-- Dark Stylish GitHub Profile README for Arkesh Pani -->
 
-<!--
-**Arkesh-27/Arkesh-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🔥 Arkesh Pani 🔥</h1>
+<h3 align="center">💻 AI • ML • Deep Learning | 🎓 B.Tech CSE | 🚀 Future AI Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFC6&size=25&center=true&vCenter=true&width=900&lines=AI+%7C+Machine+Learning+Enthusiast;Deep+Learning+Explorer;Future+AI+Engineer;Always+Learning+%26+Building!">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖤 **About Me**
+- 🤖 Passionate about **AI, ML, Deep Learning, NLP & Computer Vision**
+- 📘 Learning advanced ML, neural networks & GenAI  
+- 🛠 Building projects using **Python, TensorFlow & Scikit-Learn**
+- 🌌 Love experimenting with neural networks and data-driven ideas  
+- 🎯 Aim: Become a **top-tier AI/ML Engineer**
+
+---
+
+## ⚡ **Tech Stack**
+
+### 🔹 Languages  
+`Python` • `C/C++` • `Java` • `SQL`
+
+### 🔹 Machine Learning  
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-Learn` • `TensorFlow`
+
+### 🔹 Tools  
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `PyCharm`
+
+---
+
+## 🌙 **GitHub Stats (Dark Neon Theme)**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arkesh-27&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arkesh-27&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkesh-27&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🔗 **Connect With Me**
+<p align="left">
+  <a href="mailto:paniarkesh@gmail.com"><img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/arkesh-pani-110195393/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 **"Keep Learning. Keep Building. Keep Evolving."**
+<p align="center">
+  <img src="https://i.imgur.com/HiF0X0C.gif" width="400px"/>
+</p>
+
