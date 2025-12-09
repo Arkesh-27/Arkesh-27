@@ -1,6 +1,6 @@
 <!-- Dark Stylish GitHub Profile README for Arkesh Pani -->
 
-<h1 align="center">🔥 Arkesh Pani 🔥</h1>
+<h1 align="center">Arkesh Pani</h1>
 <h3 align="center">💻 AI • ML • Deep Learning | 🎓 B.Tech CSE | 🚀 Future AI Engineer</h3>
 
 <p align="center">
@@ -31,19 +31,6 @@
 
 ---
 
-## 🌙 **GitHub Stats (Dark Neon Theme)**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arkesh-27&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arkesh-27&theme=tokyonight&hide_border=true" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkesh-27&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
----
-
 ## 🔗 **Connect With Me**
 <p align="left">
   <a href="mailto:paniarkesh@gmail.com"><img src="https://img.shields.io/badge/Email-00FFC6?style=for-the-badge&logo=gmail&logoColor=black"></a>
@@ -53,7 +40,4 @@
 ---
 
 ## 🚀 **"Keep Learning. Keep Building. Keep Evolving."**
-<p align="center">
-  <img src="https://i.imgur.com/HiF0X0C.gif" width="400px"/>
-</p>
 
